@@ -1,0 +1,4 @@
+1. First experiment is docker.
+2. next with be containeralization.
+3. next is over practical.
+4. now we will have submission.
